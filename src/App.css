@@ -1,3 +1,46 @@
 .row {
   margin: 1em;
 }
+
+li {
+    padding: 0.25em 0.5em;
+}
+
+input[type=number] {
+    width: 4em;
+}
+
+button {
+    margin: 0 0.5em;
+}
+
+button.remove {
+    font-size: 80%;
+}
+
+label {
+  margin: 0 0.5em;
+}
+
+.table-header {
+  background-color: #6a739b;
+  color: white;
+}
+
+.section-header {
+  background-color: #dedfe5;
+  color: #2e366f;
+}
+
+.add-ingredient {
+  padding: 2em;
+  background-color: #6a739b;
+}
+
+.ingredient-name {
+  padding: 0.5em 2em;
+}
+
+.charts {
+  margin: 2em;
+}
